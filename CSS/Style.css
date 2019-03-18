@@ -1,0 +1,22 @@
+body {
+  background-color: steelblue;
+
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: red;
+  border-width: 5px;
+  width: 5%
+}
+h1{
+color: red;
+
+}
+h2{
+  color: green;
+}
+h3{
+  color: yellow;
+}
